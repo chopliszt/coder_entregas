@@ -1,0 +1,7 @@
+setup.py
+ModeloDeClientes/__init__.py
+ModeloDeClientes/modulo_preentrega2.py
+el_paqueton.egg-info/PKG-INFO
+el_paqueton.egg-info/SOURCES.txt
+el_paqueton.egg-info/dependency_links.txt
+el_paqueton.egg-info/top_level.txt

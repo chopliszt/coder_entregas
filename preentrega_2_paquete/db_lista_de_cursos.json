@@ -1,0 +1,14 @@
+[
+  {
+    "usuario": "superman3",
+    "cursos": ["Aleman", "Portugués"]
+  },
+  {
+    "usuario": "superman2",
+    "cursos": ["Aleman", "Portugués"]
+  },
+  {
+    "usuario": "superman1",
+    "cursos": ["Aleman", "Portugués"]
+  }
+]
