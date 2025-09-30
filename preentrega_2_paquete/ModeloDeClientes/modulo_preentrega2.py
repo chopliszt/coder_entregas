@@ -103,15 +103,3 @@ class Cliente(Persona):
     return  ingreso_de_cursos
 
 
-
-def main():
-  print("estoy en el main")
-  mi_persona:Persona=Persona("Julio", 34,"asdasdgmail", "Japón")
-  mi_cliente:Cliente=Cliente("Ramiro",24,"correoatcorreo.com","España",["Aleman", "Portugués"],  "superman1", 123)
-  cursos:list=mi_cliente.obtener_cursos()
-  print("Persona: ",mi_persona)
-  print("Cliente: ",mi_cliente)
-  print("Cursos del cliente: ",cursos)
-  mi_cliente.guardar_cursos_a_json()
-
-main()
